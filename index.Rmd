@@ -1,9 +1,0 @@
---- 
-title: "Resultaten Landelijke Enquete Examencommissies"
-author: "Sharon Klinkenberg"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
----
-
-# Landelijke Werkgroep Toetsen op Afstand
-
