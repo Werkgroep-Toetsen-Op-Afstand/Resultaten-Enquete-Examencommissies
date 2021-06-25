@@ -12,8 +12,6 @@ github-repo: rstudio/bookdown-demo
 description: "Collection of interactive teaching techniques."
 ---
 
-Test
-
 # Introduction {#intro}
 
 De [werkgroep ‘Toetsen op afstand’](https://versnellingsplan.nl/zones/toetsen-op-afstand/), die namens de VSNU, VH en SURF ([Versnellingsplan](https://versnellingsplan.nl)) is ingesteld om de problematiek rond het toetsen op afstand in kaart te brengen en met oplossingen voor gerezen problemen te komen, heeft in de periode maart/april 2021 een enquête gehouden onder voorzitters van examencommissies in het hbo en wo. Het voornaamste doel daarbij was de belangrijkste knelpunten in kaart te brengen die examencommissies ervaren hebben en nog steeds ervaren met de Corona-gerelateerde overgang naar toetsen op afstand. Op de oproep tot deelname aan de enquête hebben 216 examencommissies gereageerd. 
@@ -106,5 +104,3 @@ Gezien de door de examencommissies geconstateerde knelpunten heeft de werkgroep 
 *	Fraudepreventie bij take-home-tentamens (onder voorbehoud).
 
 De handreikingen zijn te vinden via [haar website](https://versnellingsplan.nl/zones/toetsen-op-afstand/).
-
-
