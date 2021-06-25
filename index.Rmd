@@ -1,9 +1,9 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Resultaten Landelijke Enquete Examencommissies"
+author: "Sharon Klinkenberg"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Landelijke Werkgroep Toetsen op Afstand
 
