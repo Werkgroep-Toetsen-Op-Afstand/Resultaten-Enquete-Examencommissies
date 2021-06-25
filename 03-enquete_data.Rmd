@@ -6,6 +6,21 @@ Download hier:
 * [De ruwe date van alle respondenten die hier akkoord mee waren (csv)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/files/excie_results_public.csv)
 * [Alle documenten die examencommissies publiekelijk wilden delen (SURFdrive)](https://surfdrive.surf.nl/files/index.php/s/K3rPEdqxpmH0PCD)
 
+```{r, echo=F}
+results <- read.csv2(file = "docs/files/excie_results_public.csv", header = T)
+
+library("DT")
+datatable(results, extensions = c('Buttons', 'Responsive'), options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+    scrollX = TRUE,
+    fixedColumns = TRUE,
+    pageLength = 3
+  )
+)
+```
+
+
 ## Met welk doel is deze enquête gehouden?
 
 Het werk van de examencommissie is door de Corona-pandemie toegenomen en complexer geworden. De werkgroep wilde de belangrijkste knelpunten in kaart brengen en proberen om oplossingen aan te dragen die het examencommissies gemakkelijker maken om de uitdagingen het hoofd te bieden. Daarbij wil de werkgroep ook voorbeelden van mooie oplossingen verzamelen en naderhand delen. Respondenten konden desgewenst documenten uploaden. 
