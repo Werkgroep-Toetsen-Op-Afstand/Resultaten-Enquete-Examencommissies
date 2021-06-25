@@ -1,6 +1,6 @@
 --- 
 title: "Resultaten Landelijke Enquête Examencommissies"
-author: ["Roelof van Deemter", "Sharon Klinkenberg"]
+author: ["Roelof van Deemter,", "Sharon Klinkenberg,"]
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -11,6 +11,8 @@ documentclass: book
 github-repo: rstudio/bookdown-demo
 description: "Collection of interactive teaching techniques."
 ---
+
+Test
 
 # Introduction {#intro}
 
