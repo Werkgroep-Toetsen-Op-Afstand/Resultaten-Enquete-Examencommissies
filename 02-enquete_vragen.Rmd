@@ -1,4 +1,6 @@
-# Enquêtevragen
+# Hoofdstuk 2: Enquêtevragen
+
+In dit hoofdstuk gaan wij in op de afzonderlijke enquêtevragen. Na elke enquêtevraag volgt een samenvatting van de gegeven antwoorden en geven we duiding aan de respons. 
 
 ## Zorgen
 
@@ -18,8 +20,8 @@ Alternatieve toetsvorm | 15
 Onmogelijkheid van praktijkonderwijs en bijbehorende toetsing | 14 
 Technische problemen bij toetsen op afstand | 9 
 Privacy-aspecten surveillance | 9 
-Geestesgesteldheid studenten | 8 
-Privacy-aspect bij online proctoring | 9 
+Privacy-aspecten bij online proctoring | 9 
+Geestesgesteldheid studenten | 8  
 Check op identiteit | 4 
 
 Vrijwel alle kwesties blijven een punt van zorg, met enkele uitzonderingen: 
