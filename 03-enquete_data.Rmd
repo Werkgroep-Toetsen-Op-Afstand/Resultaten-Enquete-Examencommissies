@@ -3,7 +3,7 @@
 Download hier:
 
 * [De enquete zoals die via qualtrics is voorgelegd aan de respondenten (PDF)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/files/Vragenlijst_excie_DEF.pdf)
-* [De ruwe date van alle respondenten die hier akkoord mee waren (csv)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/files/excie_results_public.csv)
+* [De ruwe date van alle respondenten die met disseminatie ervan akkoord waren (csv)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/files/excie_results_public.csv)
 * [Alle documenten die examencommissies publiekelijk wilden delen (SURFdrive)](https://surfdrive.surf.nl/files/index.php/s/K3rPEdqxpmH0PCD)
 
 ```{r, echo=F}
