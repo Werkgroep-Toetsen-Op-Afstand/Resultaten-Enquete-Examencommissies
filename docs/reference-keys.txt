@@ -5,7 +5,7 @@ toetskwaliteit
 rolverdeling-tussen-examencommissie-en-bestuurlijke-lijn
 constructieve-dialoog
 fraudepreventie-en--detectie
-handreikingen-van-de-werkgroep-toetsen-op-afstand
+aanvullende-handreikingen
 enquêtevragen-enquetevragen
 zorgen
 extra-aandacht-na-corona
@@ -24,8 +24,9 @@ behoefte-fraudepreventie
 gewijzigd-beleid
 onregelmatigheid-vs.-fraude
 enquête-data
-met-welk-doel-is-deze-enquête-gehouden
-aan-wie-is-het-verzoek-tot-deelname-aan-de-enquête-gericht
+doel-enquête
+doelgroep
 privacy
-wat-gebeurt-er-met-de-resultaten-van-het-onderzoek
+resultaten-onderzoek
 respons
+bekijk-data

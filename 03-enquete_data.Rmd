@@ -5,6 +5,31 @@ Download hier:
 * [De enquete zoals die via qualtrics is voorgelegd aan de respondenten (PDF)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/files/Vragenlijst_excie_DEF.pdf)
 * [De ruwe date van alle respondenten die met disseminatie ervan akkoord waren (csv)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/files/excie_results_public.csv)
 * [Alle documenten die examencommissies publiekelijk wilden delen (SURFdrive)](https://surfdrive.surf.nl/files/index.php/s/K3rPEdqxpmH0PCD)
+* [Bekijk de data hier](#Bekijk-data)
+
+## Doel enquête
+
+Het werk van de examencommissie is door de Corona-pandemie toegenomen en complexer geworden. De werkgroep wilde de belangrijkste knelpunten in kaart brengen en proberen om oplossingen aan te dragen die het examencommissies gemakkelijker maken om de uitdagingen het hoofd te bieden. Daarbij wil de werkgroep ook voorbeelden van mooie oplossingen verzamelen en naderhand delen. Respondenten konden desgewenst documenten uploaden. 
+
+## Doelgroep
+
+Er is voor gekozen om de voorzitters van alle examencommissies in het hbo en wo te benaderen. Zij hebben zich soms laten bijstaan door het ambtelijk secretariaat en/of commissies die via delegatie taken onder eindverantwoordelijkheid van de examencommissie uitvoeren. Deelname aan dit onderzoek was geheel vrijwillig. Er was tijdens het invullen van de enquête de mogelijkheid om vragen niet te beantwoorden en over te slaan. 
+
+## Privacy
+
+De antwoorden op de vragen in de vragenlijst zijn anoniem verzameld. Respondenten zijn erop gewezen dat het starten van de enquête wordt geïnterpreteerd als een indicatie van instemming om deel te nemen aan deze studie. Hiermee is echter op geen enkele manier afstand gedaan van wettelijke rechten en het ontheft de onderzoekers of de betrokken instellingen niet van hun wettelijke en professionele verantwoordelijkheden.    
+Voor het afnemen van de vragenlijst is gebruik gemaakt van het online platform Qualtrics. Dit platform voldoet aan de AVG/GDPR richtlijnen. Na afsluiten van de enquête zijn de gegevens verwijderd uit Qualtrics en samen met de gedeelde documenten worden opgeslagen op een SURF-drive waar alleen de werkgroep Toetsen op Afstand toegang toe heeft.
+
+## Resultaten onderzoek
+
+De werkgroep Toetsen op Afstand is naar aanleiding van de enquête bezig met het initiëren van enkele handreikingen die hopelijk in een behoefte voorzien.
+De uitkomsten van dit onderzoek kunnen ook gebruikt worden door instellingen om de toekomstige wijze van toetsing te optimaliseren. Enquête-antwoorden worden uitsluitend gepubliceerd, indien respondenten expliciet toestemming hebben gegeven voor het publiceren van hun antwoorden. Antwoorden zijn niet rechtstreeks herleidbaar naar specifieke instellingen. Waar dat relevant is, wordt in de samenvattingen per vraag aangegeven of er een significant verschil is tussen hbo en wo. 
+
+## Respons
+
+In totaal zijn er inzendingen ontvangen van 216 examencommissies. Binnen de periode waarin de enquête openstond, tekent zich de ontwikkeling af dat naarmate de tijd verstreek, respondenten meer vragen onbeantwoord hebben gelaten. Voor de meeste vragen zijn ruim 100 inhoudelijke reacties ontvangen.
+
+## Bekijk data
 
 ```{r, echo=F}
 results <- read.csv2(file = "docs/files/excie_results_public.csv", header = T)
@@ -20,25 +45,3 @@ datatable(results, extensions = c('Buttons', 'Responsive'), options = list(
 )
 ```
 
-
-## Met welk doel is deze enquête gehouden?
-
-Het werk van de examencommissie is door de Corona-pandemie toegenomen en complexer geworden. De werkgroep wilde de belangrijkste knelpunten in kaart brengen en proberen om oplossingen aan te dragen die het examencommissies gemakkelijker maken om de uitdagingen het hoofd te bieden. Daarbij wil de werkgroep ook voorbeelden van mooie oplossingen verzamelen en naderhand delen. Respondenten konden desgewenst documenten uploaden. 
-
-## Aan wie is het verzoek tot deelname aan de enquête gericht?
-
-Er is voor gekozen om de voorzitters van alle examencommissies in het hbo en wo te benaderen. Zij hebben zich soms laten bijstaan door het ambtelijk secretariaat en/of commissies die via delegatie taken onder eindverantwoordelijkheid van de examencommissie uitvoeren. Deelname aan dit onderzoek was geheel vrijwillig. Er was tijdens het invullen van de enquête de mogelijkheid om vragen niet te beantwoorden en over te slaan. 
-
-## Privacy
-
-De antwoorden op de vragen in de vragenlijst zijn anoniem verzameld. Respondenten zijn erop gewezen dat het starten van de enquête wordt geïnterpreteerd als een indicatie van instemming om deel te nemen aan deze studie. Hiermee is echter op geen enkele manier afstand gedaan van wettelijke rechten en het ontheft de onderzoekers of de betrokken instellingen niet van hun wettelijke en professionele verantwoordelijkheden.    
-Voor het afnemen van de vragenlijst is gebruik gemaakt van het online platform Qualtrics. Dit platform voldoet aan de AVG/GDPR richtlijnen. Na afsluiten van de enquête zijn de gegevens verwijderd uit Qualtrics en samen met de gedeelde documenten worden opgeslagen op een SURF-drive waar alleen de werkgroep Toetsen op Afstand toegang toe heeft.
-
-## Wat gebeurt er met de resultaten van het onderzoek?
-
-De werkgroep Toetsen op Afstand is naar aanleiding van de enquête bezig met het initiëren van enkele handreikingen die hopelijk in een behoefte voorzien.
-De uitkomsten van dit onderzoek kunnen ook gebruikt worden door instellingen om de toekomstige wijze van toetsing te optimaliseren. Enquête-antwoorden worden uitsluitend gepubliceerd, indien respondenten expliciet toestemming hebben gegeven voor het publiceren van hun antwoorden. Antwoorden zijn niet rechtstreeks herleidbaar naar specifieke instellingen. Waar dat relevant is, wordt in de samenvattingen per vraag aangegeven of er een significant verschil is tussen hbo en wo. 
-
-## Respons
-
-In totaal zijn er inzendingen ontvangen van 216 examencommissies. Binnen de periode waarin de enquête openstond, tekent zich de ontwikkeling af dat naarmate de tijd verstreek, respondenten meer vragen onbeantwoord hebben gelaten. Voor de meeste vragen zijn ruim 100 inhoudelijke reacties ontvangen.

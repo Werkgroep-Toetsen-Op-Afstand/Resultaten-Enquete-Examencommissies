@@ -10,8 +10,8 @@ Verreweg de meeste respondenten noemen tussen de drie en vijf kwesties die hun z
 
 De onderstaande tabel geeft een overzicht: 
 
-Zorgpunten | aantal
------------|-------
+Zorgpunten | Aantal
+:----------|:------
 Fraude | 70 
 Toetskwaliteit | 42 
 Werkdruk bij examencommissie, docenten en ondersteuning | 29 
@@ -140,7 +140,7 @@ Iets minder dan de helft van de 218 respondenten heeft de vraag beantwoord.
 Waar wel een toename werd gezien, ging het om de volgende aantallen:
 
 0-10%	| 10-25% | 25-50% | Meer dan 50%
-------|--------|--------|-------------
+:-----|:-------|:-------|:------------
 31	  | 15	   | 6	    | 15
 
 Bij deze vraag tekent zich een verschil af tussen hbo en wo. Lichte tot matige stijgingen worden in het hbo relatief iets vaker gezien, terwijl stijgingen van meer dan 50% uitsluitend in het wo gezien worden.

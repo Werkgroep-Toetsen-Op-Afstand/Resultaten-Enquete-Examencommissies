@@ -40,7 +40,7 @@ Gevraagd naar de meest nijpende knelpunten die de examencommissies zien, nadat C
 
 ::: {style="width: 50%;"}
 
-Positieve uitkomsten van de enquête:
+**Positieve uitkomsten van de enquête:**
 
 *	een proactieve opstelling van de examencommissie in het monitoren van aanpassingen in de toetsopzet (50% gaf expliciet toestemming) 
 *	een constructieve dialoog met de bestuurlijke lijn 
@@ -54,7 +54,7 @@ Positieve uitkomsten van de enquête:
 
 ::: {style="width: 50%;"}
 
-Punten van zorg:
+**Punten van zorg:**
 
 *	frustratie over het ontbreken van eenduidige kaders 
 *	een aanzienlijk geringere betrokkenheid van examencommissies bij aanpassingen in ‘de organisatie en de procedures rond tentamens en examens’2 waaronder ook de surveillance op afstand valt 
@@ -100,7 +100,7 @@ De praktijk van de laatste jaren heeft steeds duidelijker gemaakt dat de spelers
 Examencommissies uiten zich in de enquête zeer bezorgd over vormen van fraude waartegen nauwelijks een kruid gewassen lijkt. Examencommissies voelen zich machteloos tegenover het gebruik van sociale media tijdens de afname van een toets op afstand. Er tekent zich ook kwantitatief gezien een toename af van het aantal door examinatoren gedane meldingen van vermeende fraude. Veel examencommissies hebben fraudepreventie hoog op de agenda staan en zouden graag zien dat er in de toekomst een verantwoorde afweging gemaakt zal worden of online proctoring ingezet kan worden. 
 Vanuit hun wettelijke verantwoordelijkheid om in voorkomende gevallen te onderzoeken of feitelijk sprake is van fraude, proberen examencommissies zich op een gewetensvolle manier te kwijten van hun taak. Uit de enquête blijkt dat een substantieel deel van de commissies in de praktijk echter niet het nuttige onderscheid hanteert tussen onregelmatigheid en fraude. Als zich aftekent dat het lastig, zo niet onmogelijk zal blijken te zijn om het bewijs van fraude rond te krijgen, kan afdoening ook in een vroeg stadium over een andere boeg gegooid worden, waardoor de kwestie uit de sanctiesfeer geraakt, nutteloze escalatie voorkomen wordt en snelle duidelijkheid geboden kan worden. Indien een ernstige onregelmatigheid geconstateerd wordt, kan dan altijd gekoerst worden op ongeldigverklaring van de betreffende toetsafname waarna in beginsel een herkansingsmogelijkheid benut kan worden.
 
-## Handreikingen van de werkgroep ‘Toetsen op afstand’
+## Aanvullende handreikingen
 
 Gezien de door de examencommissies geconstateerde knelpunten heeft de werkgroep ‘Toetsen op Afstand’ de ontwikkeling van enkele handreikingen geïnitieerd. Deze behandelen de volgende onderwerpen:
 
@@ -108,4 +108,4 @@ Gezien de door de examencommissies geconstateerde knelpunten heeft de werkgroep 
 *	Fraude en onregelmatigheid 
 *	Fraudepreventie bij take-home-tentamens (onder voorbehoud).
 
-De handreikingen zijn te vinden via [haar website](https://versnellingsplan.nl/zones/toetsen-op-afstand/).
+De handreikingen zullen beschikbaar gemaakt worden op de [website van de werkgroep](https://versnellingsplan.nl/zones/toetsen-op-afstand/).
