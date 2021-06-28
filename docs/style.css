@@ -22,13 +22,13 @@ a:active  { color: #9E8E67 !important; }
 
 #header {background-color: #9E8E67;
          padding: 10px;
-         height: 300px;
+         min-height: 300px;
          color: #9E8E67;
          text-align: center;
          background-image: url(https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/files/toetsen.png), url(https://versnellingsplan.nl/wp-content/uploads/2020/02/logo-1.svg);
          background-repeat: no-repeat, no-repeat;
          background-size: 100px, 250px;
-         background-position: center 30px, 10px 10px;
+         background-position: center 20%, 10px 10px;
 }
 
 #header h1 { color: #fff; 

@@ -5,7 +5,7 @@ rolverdeling-tussen-examencommissie-en-bestuurlijke-lijn
 constructieve-dialoog
 fraudepreventie-en--detectie
 handreikingen-van-de-werkgroep-toetsen-op-afstand
-enquête-vragen
+enquêtevragen
 zorgen
 extra-aandacht-na-corona
 invloed-besluitvorming
@@ -18,10 +18,10 @@ gemiste-ondersteuning
 fraude-door-veranderde-toetsing
 omgang-fraudemeldingen
 toename-fraude
-fraude-gevoelige-toetsvormen
+fraudegevoelige-toetsvormen
 behoefte-fraudepreventie
 gewijzigd-beleid
-onregelmatigheid-vs-fraude
+onregelmatigheid-vs.-fraude
 enquête-data
 met-welk-doel-is-deze-enquête-gehouden
 aan-wie-is-het-verzoek-tot-deelname-aan-de-enquête-gericht
