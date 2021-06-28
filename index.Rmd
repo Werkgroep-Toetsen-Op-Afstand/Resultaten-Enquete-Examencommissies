@@ -13,15 +13,15 @@ description: "Collection of interactive teaching techniques."
 always_allow_html: true
 ---
 
-# Introduction {#intro}
+# Rapportage {#intro}
 
 De [werkgroep ‘Toetsen op afstand’](https://versnellingsplan.nl/zones/toetsen-op-afstand/), die namens de VSNU, VH en SURF ([Versnellingsplan](https://versnellingsplan.nl)) is ingesteld om de problematiek rond het toetsen op afstand in kaart te brengen en met oplossingen voor gerezen problemen te komen, heeft in de periode maart/april 2021 een enquête gehouden onder voorzitters van examencommissies in het hbo en wo. Het voornaamste doel daarbij was de belangrijkste knelpunten in kaart te brengen die examencommissies ervaren hebben en nog steeds ervaren met de Corona-gerelateerde overgang naar toetsen op afstand. Op de oproep tot deelname aan de enquête hebben 216 examencommissies gereageerd.
 
-Dit rapport valt uiteen in drie hoofdstukken. In dit eerste hoofdstuk beschrijven we de voornaamste conclusies die getrokken kunnen worden op basis van de resultaten van de enquête. In hoofdstuk 2 geven we per enquêtevraag een samenvatting en geven we duiding aan de antwoorden op de betreffende vraag. Hoofdstuk 3 is gewijd aan de ruwe data: de door respondenten vrijgegeven antwoorden en de door hen geüploade documenten.
+Dit rapport valt uiteen in drie hoofdstukken. In dit eerste hoofdstuk beschrijven we de voornaamste conclusies die getrokken kunnen worden op basis van de resultaten van de enquête. In [hoofdstuk 2](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/enquêtevragen.html#enquêtevragen) geven we per enquêtevraag een samenvatting en geven we duiding aan de antwoorden op de betreffende vraag. [Hoofdstuk 3](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/enquête-data.html#enquête-data) is gewijd aan de ruwe data: de door respondenten vrijgegeven antwoorden en de door hen geüploade documenten.
 
 De uitkomsten van dit onderzoek kunnen gebruikt worden door instellingen om de toekomstige kwaliteit van toetsing op peil te houden en wellicht zelfs te optimaliseren.  
 
-# Hoofdstuk 1: Algemene bevindingen en conclusies n.a.v. de enquête
+##lgemene bevindingen en conclusies n.a.v. de enquête
 
 Achterliggend waren drie wettelijke taken en bevoegdheden van de examencommissie bepalend voor de opzet van de enquête:
 
@@ -84,10 +84,11 @@ Naar het oordeel van de bevraagde examencommissies is bij sommige instellingen h
 
 Om in beleidsmatig opzicht tot een betere inrichting van toetsing op afstand te komen, is het belangrijk om zich rekenschap te geven van de onderlinge functionele verhoudingen binnen de instellingen voor hoger onderwijs. Doordat de taken en verantwoordelijkheden van examencommissies zijn verankerd in de WHW, heeft de examencommissie een verregaand autonome positie tegenover management en bestuur. De examencommissie is functioneel niet ondergeschikt aan het instellingsbestuur, maar geeft haar eigen beleidsruimte vorm binnen de wettelijke kaders en binnen het kader van de Onderwijs- en Examenregeling (OER). 
 
-Sinds de invoering van de Wet versterking besturing in 2016 is de toezichthoudende en bestuurlijke rol van de examencommissie versterkt.  Uit de enquête komen examencommissies naar voren als zelfbewuste en proactieve gremia. Deze ontwikkeling zien we terug in de enquête. Examencommissies hebben in het voorjaar van 2020 vaak snel hun rol gepakt. Het is een periode geweest van frequent overleg met management en bestuur en examencommissies hebben een actieve rol gespeeld in het monitoren van de aanpassingen die teweeg gebracht werden door de toetsing op afstand. Dit sluit aan bij het langzamerhand gegroeide besef dat het systeem van checks and balances van partijen vraagt om in een constructieve dialoog af te tasten hoe binnen de instelling de verantwoordelijkheid voor het ‘zorgen’ en ‘borgen’ op een passende manier belegd kunnen worden. Gegeven de verschillende verantwoordelijkheden  kan die dialoog tussen partijen soms schuren. Besluiten van examencommissies werden tijdens de Corona-crisis soms ingehaald door besluiten van CvB’s. 
-Ook de dialoog tussen een examinator en de examencommissie kan soms schuren. De eerste heeft de exclusieve bevoegdheid om na toetsing het cijfer vast te stellen, maar de regels die daarvoor gelden, kunnen vooraf door de examencommissie bepaald zijn. Gezien de borgingstaak van de examencommissie zal zij mogelijk ook behoefte hebben aan extra informatie over de wijze waarop de toetsing op afstand is verlopen. Het is dan op grond van art. 12c, tweede lid (WHW) aan de examinator om de examencommissie deze inlichtingen over de toetsing te verstrekken. 
+Sinds de invoering van de Wet versterking besturing in 2016 is de toezichthoudende en bestuurlijke rol van de examencommissie versterkt.  Uit de enquête komen examencommissies naar voren als zelfbewuste en proactieve gremia. Deze ontwikkeling zien we terug in de enquête. Examencommissies hebben in het voorjaar van 2020 vaak snel hun rol gepakt. Het is een periode geweest van frequent overleg met management en bestuur en examencommissies hebben een actieve rol gespeeld in het monitoren van de aanpassingen die teweeg gebracht werden door de toetsing op afstand. Dit sluit aan bij het langzamerhand gegroeide besef dat het systeem van checks and balances van partijen vraagt om in een constructieve dialoog af te tasten hoe binnen de instelling de verantwoordelijkheid voor het ‘zorgen’ en ‘borgen’ op een passende manier belegd kunnen worden. Gegeven de verschillende verantwoordelijkheden  kan die dialoog tussen partijen soms schuren. Besluiten van examencommissies werden tijdens de Corona-crisis soms ingehaald door besluiten van CvB’s.
 
 > WHW operationaliseert ‘toetskwaliteit’ niet.
+
+Ook de dialoog tussen een examinator en de examencommissie kan soms schuren. De eerste heeft de exclusieve bevoegdheid om na toetsing het cijfer vast te stellen, maar de regels die daarvoor gelden, kunnen vooraf door de examencommissie bepaald zijn. Gezien de borgingstaak van de examencommissie zal zij mogelijk ook behoefte hebben aan extra informatie over de wijze waarop de toetsing op afstand is verlopen. Het is dan op grond van art. 12c, tweede lid (WHW) aan de examinator om de examencommissie deze inlichtingen over de toetsing te verstrekken. 
 
 ## Constructieve dialoog
 
