@@ -15,10 +15,13 @@ always_allow_html: true
 
 # Introduction {#intro}
 
-De [werkgroep ‘Toetsen op afstand’](https://versnellingsplan.nl/zones/toetsen-op-afstand/), die namens de VSNU, VH en SURF ([Versnellingsplan](https://versnellingsplan.nl)) is ingesteld om de problematiek rond het toetsen op afstand in kaart te brengen en met oplossingen voor gerezen problemen te komen, heeft in de periode maart/april 2021 een enquête gehouden onder voorzitters van examencommissies in het hbo en wo. Het voornaamste doel daarbij was de belangrijkste knelpunten in kaart te brengen die examencommissies ervaren hebben en nog steeds ervaren met de Corona-gerelateerde overgang naar toetsen op afstand. Op de oproep tot deelname aan de enquête hebben 216 examencommissies gereageerd. 
+De [werkgroep ‘Toetsen op afstand’](https://versnellingsplan.nl/zones/toetsen-op-afstand/), die namens de VSNU, VH en SURF ([Versnellingsplan](https://versnellingsplan.nl)) is ingesteld om de problematiek rond het toetsen op afstand in kaart te brengen en met oplossingen voor gerezen problemen te komen, heeft in de periode maart/april 2021 een enquête gehouden onder voorzitters van examencommissies in het hbo en wo. Het voornaamste doel daarbij was de belangrijkste knelpunten in kaart te brengen die examencommissies ervaren hebben en nog steeds ervaren met de Corona-gerelateerde overgang naar toetsen op afstand. Op de oproep tot deelname aan de enquête hebben 216 examencommissies gereageerd.
 
-In dit artikel beschrijven we de voornaamste conclusies die getrokken kunnen worden op basis van de resultaten van de enquête. Het volledige rapport is gepubliceerd op de website van de werkgroep]. Daar zijn tevens de documenten te vinden die respondenten met andere commissies willen delen.
+Dit rapport valt uiteen in drie hoofdstukken. In dit eerste hoofdstuk beschrijven we de voornaamste conclusies die getrokken kunnen worden op basis van de resultaten van de enquête. In hoofdstuk 2 geven we per enquêtevraag een samenvatting en geven we duiding aan de antwoorden op de betreffende vraag. Hoofdstuk 3 is gewijd aan de ruwe data: de door respondenten vrijgegeven antwoorden en de door hen geüploade documenten.
+
 De uitkomsten van dit onderzoek kunnen gebruikt worden door instellingen om de toekomstige kwaliteit van toetsing op peil te houden en wellicht zelfs te optimaliseren.  
+
+# Hoofdstuk 1: Algemene bevindingen en conclusies n.a.v. de enquête
 
 Achterliggend waren drie wettelijke taken en bevoegdheden van de examencommissie bepalend voor de opzet van de enquête:
 
