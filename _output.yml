@@ -9,7 +9,7 @@ bookdown::gitbook:
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
     search: yes
-    download: ["epub"]
+    download: ["epub", "PDF"]
   includes:
     in_header: google_analytics.html
 bookdown::epub_book: default
