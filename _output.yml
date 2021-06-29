@@ -10,4 +10,6 @@ bookdown::gitbook:
     edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
     search: yes
     download: ["epub"]
+  includes:
+    in_header: google_analytics.html
 bookdown::epub_book: default
