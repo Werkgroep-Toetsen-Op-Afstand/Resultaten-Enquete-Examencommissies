@@ -6,10 +6,10 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Resultaten Enquête Examencommissies</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
+        <li><a href="https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/" target="blank">Resultaten Enquête Docenten</a></li>
+        <li><a href="mailto:annette.peet@surfnet.nl?SUBJECT=Reactie Resultaten Enquête Docenten" target="blank">Mail de werkgroep</a></li>
     search: yes
-    download: ["epub", "PDF"]
+    download: ["epub", "pdf"]
   includes:
     in_header: google_analytics.html
 bookdown::epub_book: default
