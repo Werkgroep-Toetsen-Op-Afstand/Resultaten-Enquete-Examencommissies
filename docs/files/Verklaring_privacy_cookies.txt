@@ -1,10 +1,3 @@
----
-title: "Verklaring over privacy en cookies"
-author: "WEerkgroep Toetsen op Afstand"
-date: "7/2/2021"
-output: html_document
----
-
 ## Opslaan van gegevens
 
 Deze website bevat geen (contact)formulieren en er worden geen persoonsgegevens opgeslagen.
