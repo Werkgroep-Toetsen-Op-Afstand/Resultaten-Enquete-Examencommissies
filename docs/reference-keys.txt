@@ -30,4 +30,3 @@ privacy
 resultaten-onderzoek
 respons
 bekijk-data
-bibliography-book.bib-packages.bib
