@@ -1,7 +1,7 @@
 --- 
 title: "Resultaten Landelijke Enquête Examencommissies"
 author: ["Roelof van Deemter,", "Sharon Klinkenberg,"]
-date: "`r Sys.Date()`"
+date: "2021-07-02"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -109,3 +109,5 @@ Gezien de door de examencommissies geconstateerde knelpunten heeft de werkgroep 
 *	Fraudepreventie bij take-home-tentamens (onder voorbehoud).
 
 De handreikingen zullen beschikbaar gemaakt worden op de [website van de werkgroep](https://versnellingsplan.nl/zones/toetsen-op-afstand/).
+
+<center> Updated: `r Sys.Date()` </center>
