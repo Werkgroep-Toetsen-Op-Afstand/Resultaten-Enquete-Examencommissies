@@ -13,5 +13,5 @@ bookdown::gitbook:
     search: yes
     download: ["epub", "pdf"]
   includes:
-    in_header: google_analytics.html
+    in_header: ["google_analytics.html", "fontawesome.html"]
 bookdown::epub_book: default
