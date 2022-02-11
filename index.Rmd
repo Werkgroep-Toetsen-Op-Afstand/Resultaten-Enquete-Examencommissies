@@ -115,10 +115,6 @@ Gezien de door de examencommissies geconstateerde knelpunten heeft de werkgroep 
 *	[Fraude en onregelmatigheid](https://www.versnellingsplan.nl/Kennisbank/handreiking-voor-examencommissies-onderscheid-tussen-onregelmatigheden-en-fraude/)
 *	Fraudepreventie bij take-home-tentamens (onder voorbehoud).
 
-<<<<<<< HEAD
-De handreikingen zullen beschikbaar gemaakt worden op de [website van de werkgroep](https://versnellingsplan.nl/zones/toetsen-op-afstand/).
+De handreikingen zullen beschikbaar gemaakt worden op de [website van de werkgroep](https://www.versnellingsplan.nl/werkgroep-toetsen-op-afstand/).
 
 <center> Updated: `r Sys.Date()` </center>
-=======
-De handreikingen zullen beschikbaar gemaakt worden op de [website van de werkgroep](https://www.versnellingsplan.nl/werkgroep-toetsen-op-afstand/).
->>>>>>> 142bf9abfb49aa1a89c989f7fd9a9e4f88b5bf0c
