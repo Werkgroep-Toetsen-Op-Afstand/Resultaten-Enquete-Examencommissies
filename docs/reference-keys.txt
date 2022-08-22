@@ -43,3 +43,4 @@ situatie-2-de-pseudo-onregelmatigheid
 situatie-3-de-zuivere-onregelmatigheid
 situatie-4-fraude-en-plagiaat
 auteurs
+bibliography-book.bib-packages.bib
