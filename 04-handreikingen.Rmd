@@ -8,7 +8,7 @@ Voor u ligt een praktisch stappenplan dat kan worden gebruikt bij het maken van 
 ### Het onderscheid tussen onregelmatigheden en fraude
 Het instellingsbestuur is verantwoordelijk voor de praktische organisatie van tentamens. Het is echter de examencommissie die belast is met het borgen van de kwaliteit van tentamens. Dit behelst zowel de integriteit van de tentamens zelf, als de kwaliteit van de organisatie en procedures rondom de tentamens. Binnen het kader van de onderwijs- en examenregeling (OER) stellen het instellingsbestuur en de examencommissie richtlijnen vast omtrent het afleggen en beoordelen van tentamens.3 Ieder handelen of nalaten door een student in strijd met de regels, richtlijnen en aanwijzingen met betrekking tot het afleggen van tentamens kan worden aangemerkt als een onregelmatigheid. Indien een onregelmatigheid het onmogelijk maakt om op juiste wijze een oordeel over de kennis, het inzicht, de vaardigheden of de beroepshouding van een student te vormen dan kan worden gesproken van fraude. Plagiaat is een vorm van fraude. Gevallen van fraude zijn dus een deelverzameling van de categorie ‘onregelmatigheid’.  
 
-![Figuur 1](docs/files/fig1.svg)
+![Figuur 1](docs/files/fig1.svg){width=50%}
 
 Fraude mag bestraft worden. Studenten kunnen worden uitgesloten van tentamens voor de duur van (maximaal) één studiejaar of zij kunnen zelfs worden verwijderd van de opleiding.5 Indien sprake is van een onregelmatigheid (niet zijnde fraude) dan bestaat deze bestraffingsbevoegdheid niet. Het is dan enkel toegestaan om de situatie terug te draaien naar hoe deze was vóór de overtreding. Met andere woorden: het behaalde resultaat van het tentamen mag ongeldig worden verklaard.  
 
